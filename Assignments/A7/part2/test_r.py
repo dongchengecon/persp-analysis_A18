@@ -52,3 +52,9 @@ def test_get_rvals():
     r2 = gr.get_r(K2, L2, alpha2, Z2, delta2)
     assert np.allclose(r2, np.array([0.17081635, 0.1417702, 0.13790967,
                                      0.13615041, 0.13537572]))
+
+    
+    
+    
+    
+    
